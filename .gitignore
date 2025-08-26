@@ -1,0 +1,11 @@
+#Node.js
+/node_modules
+.npm
+
+#Os and temporary files
+.DS_Store
+Thumbs.db
+
+#termux files
+storage/
+.ssh/
